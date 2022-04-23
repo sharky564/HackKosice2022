@@ -1,1 +1,1 @@
-# HackKosice2022
+# HackKosice2022 bad
